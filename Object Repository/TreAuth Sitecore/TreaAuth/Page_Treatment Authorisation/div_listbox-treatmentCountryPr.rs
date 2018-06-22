@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_listbox-treatmentCountryPr</name>
+   <tag></tag>
+   <elementGuidId>ae4cd388-9852-4e89-8ece-e120cf69fe94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[count(. | //*[@role = 'listbox']) = count(//*[@role = 'listbox'])][count(. | //*[@id = 'listbox-treatmentCountryPredictiveTextbox']) = count(//*[@id = 'listbox-treatmentCountryPredictiveTextbox'])][count(. | id(&quot;listbox-treatmentCountryPredictiveTextbox&quot;)) = count(id(&quot;listbox-treatmentCountryPredictiveTextbox&quot;))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>listbox-treatmentCountryPredictiveTextbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>resultList predictive-list</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listbox-treatmentCountryPredictiveTextbox&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

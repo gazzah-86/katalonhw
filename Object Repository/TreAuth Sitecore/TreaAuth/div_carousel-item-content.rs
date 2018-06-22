@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_carousel-item-content</name>
+   <tag></tag>
+   <elementGuidId>29ac644e-992b-46f8-9b04-8c69df1bde7c</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>carousel-item-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-auth-intro-carousel&quot;)/div[@class=&quot;carousel-viewport&quot;]/div[@class=&quot;carousel-belt&quot;]/div[@class=&quot;carousel-item is-active&quot;]/div[@class=&quot;item-inner&quot;]/div[@class=&quot;carousel-item-content&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

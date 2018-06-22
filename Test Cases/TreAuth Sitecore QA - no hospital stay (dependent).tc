@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is testing Sitecore QA</description>
+   <name>TreAuth Sitecore QA - no hospital stay (dependent)</name>
+   <tag>TreAuthSCQA</tag>
+   <comment></comment>
+   <testCaseGuid>b04730f1-36e6-4167-a4a3-84562b3f3793</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_11</name>
+   <tag></tag>
+   <elementGuidId>cc2c4062-dc9f-4a23-b0c3-a664452dbae1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = '11' or . = '11')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#treatmentStartDate-calendar > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(3) > td:nth-child(2) > span:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treatmentStartDate-calendar&quot;)/div[@class=&quot;displayContainer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;datePickerMonth&quot;]/table[1]/tbody[1]/tr[3]/td[@class=&quot;hovered&quot;]/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

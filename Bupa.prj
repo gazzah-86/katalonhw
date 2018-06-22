@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This is a test project to test Katalon's capabilities.</description>
+   <name>Test project</name>
+   <tag></tag>
+   <UUID>5d1f77f4-eee5-470c-9d88-c6a21b2e00fb</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>

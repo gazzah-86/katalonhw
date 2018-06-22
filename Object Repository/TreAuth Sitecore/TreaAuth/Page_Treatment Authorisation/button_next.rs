@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_next</name>
+   <tag></tag>
+   <elementGuidId>43033ba8-01a0-466d-9102-a0a07896c444</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;treatmentStartDate-calendar&quot;)/div[@class=&quot;controls&quot;]/button[@class=&quot;next&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#treatmentStartDate-calendar > div:nth-child(1) > button:nth-child(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>next</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treatmentStartDate-calendar&quot;)/div[@class=&quot;controls&quot;]/button[@class=&quot;next&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

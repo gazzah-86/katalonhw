@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_flag</name>
+   <tag></tag>
+   <elementGuidId>b775e8fd-d667-49be-93ac-8018ee7e123a</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flag</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tree-auth-condition-details-form&quot;)/div[@class=&quot;grid-row&quot;]/div[@class=&quot;col-s-12 col-m-8 col-m-offset-2 col-l-8 col-l-offset-2&quot;]/section[@class=&quot;summary-card summary-card-editable&quot;]/div[@class=&quot;summary-card-content clearfix&quot;]/ul[1]/li[@class=&quot;summary-list-item&quot;]/p[@class=&quot;has-flag&quot;]/span[@class=&quot;flag&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

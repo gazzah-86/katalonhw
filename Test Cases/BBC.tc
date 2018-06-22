@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Opening BBC site on mobile</description>
+   <name>BBC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d36bf800-8d44-4e4f-874e-9ad3e2d28610</testCaseGuid>
+</TestCaseEntity>
