@@ -33,7 +33,7 @@ WebUI.waitForElementVisible(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treat
 
 WebUI.click(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Login to MembersWorld/div_X_2'))
 
-WebUI.setText(findTestObject('TreAuth Sitecore/Login/input_signInUsername'), 'BI-6000-0180-9257')
+WebUI.setText(findTestObject('TreAuth Sitecore/Login/input_signInUsername'), 'BI-6000-0246-8531')
 
 WebUI.click(findTestObject('TreAuth Sitecore/Login/button_Next'))
 
@@ -85,7 +85,7 @@ WebUI.delay(2)
 
 WebUI.scrollToPosition(537, 219)
 
-WebUI.verifyElementAttributeValue(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/div_contactEmailPreferencework'), 
+WebUI.verifyElementAttributeValue(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/div_contactEmailPreferencehome'), 
     'aria-checked', 'true', 5)
 
 WebUI.scrollToPosition(616, 478)
@@ -102,10 +102,10 @@ WebUI.click(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisati
 WebUI.scrollToPosition(530, 525)
 
 WebUI.setText(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/input_treatmentStartDateDay'), 
-    '11')
+    '20')
 
 WebUI.setText(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/input_treatmentStartDateMonth'), 
-    '06')
+    '08')
 
 WebUI.setText(findTestObject('TreAuth Sitecore/TreaAuth/Page_Treatment Authorisation/Page_Treatment Authorisation/Page_Treatment Authorisation/input_treatmentStartDateYear'), 
     '2018')

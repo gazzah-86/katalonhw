@@ -4,6 +4,7 @@
    <name>Command line test suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
+   <lastRun>2018-07-10T15:55:33</lastRun>
    <mailRecipient>gary.hetherington@heathwallace.com;</mailRecipient>
    <numberOfRerun>2</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
